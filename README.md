@@ -1,4 +1,4 @@
-# Website Portfolio
+# Portfolio Website
 
 ## Introduction
 Welcome to my portfolio website! Here, you can explore my projects, skills, and experience. Whether you're a potential employer, collaborator, or just curious, I hope you find something of interest.
